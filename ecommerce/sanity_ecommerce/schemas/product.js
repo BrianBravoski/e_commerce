@@ -23,7 +23,7 @@ export default {
             type:'slug',
             options:{
                 source:'name',
-                maxLength:90
+                maxLength:90,
             }
         },
         {
@@ -34,7 +34,7 @@ export default {
         {
             name:'details',
             title:'Details',
-            type: 'number', 
+            type: 'string', 
         }
     ]
 }
