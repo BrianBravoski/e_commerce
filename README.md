@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/BrianBravoski/e_commerce">
-    <img src="public/assets/ear" alt="Logo" width="80" height="80">
+    <img src="public/assets/earphones_a_1.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Jambo</h3>
