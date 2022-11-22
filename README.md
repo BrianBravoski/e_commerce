@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">READ ME</h1>
 
-## Getting Started
+<br />
 
-First, run the development server:
+![Contributors][contributors-shield]
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<div align="center">
+  <a href="https://github.com/BrianBravoski/e_commerce">
+    <img src="public/assets/ear" alt="Logo" width="80" height="80">
+  </a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h3 align="center">Jambo</h3>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-## Learn More
+Jambo is an ecommerce web application. The main function of the website is to allow users to see the various items that are for sale, their prices and the various images taken of the item.
+The website also shows which items are added to the cart and also contains the functionality of adding multiple pieces per item.
+The web application uses the stripe api to integrate payments.
 
-To learn more about Next.js, take a look at the following resources:
+The link is https://jambo-store..app
+ 
+### Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This section shows the major frameworks and libraries used in the creation of the project.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* [![Next][next.js]][next-url]
+* [![React][React.js]][React-url]
+* [![Tailwind][Tailwind.css]][Tailwind-url]
+<!-- LICENSE -->
+## License
 
-## Deploy on Vercel
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!--markdown Links-->
+[contributors-shield]: https://img.shields.io/github/contributors/BrianBravoski/gym_web.svg?style=for-the-badge
+<!-- [product-screenshot]: src/assets/images/Chuma-Gym.png -->
+[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Tailwind.css]: https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB
+[Tailwind-url]: https://tailwindcss.com
