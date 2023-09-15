@@ -21,7 +21,7 @@ Jambo is an ecommerce web application. The main function of the website is to al
 The website also shows which items are added to the cart and also contains the functionality of adding multiple pieces per item.
 The web application uses the stripe api to integrate payments.
 
-The link is https://jambo-store..app
+The link is https://jambo-store.vercel.app
  
 ### Built With
 
